@@ -98,4 +98,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](./https://github.com/ONJoseph/realtime_search_box/blob/master/LICENSE) licensed.
