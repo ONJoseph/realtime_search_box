@@ -94,7 +94,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Shoutout the Google and ChatGPT!
+- Shoutout to Helpjuice, Google and ChatGPT!
 
 ## 📝 License
 
