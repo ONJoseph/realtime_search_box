@@ -15,11 +15,15 @@ ActiveRecord::Schema[7.1].define(version: 2024_01_13_233551) do
   enable_extension "plpgsql"
 
   create_table "analytics", force: :cascade do |t|
+    t.string "word", null: false
+    t.integer "count", default: 1, null: false
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
 
   create_table "articles", force: :cascade do |t|
+    t.string "title", null: false
+    t.text "content", null: false
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
