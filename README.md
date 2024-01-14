@@ -79,7 +79,7 @@ bundle exec rspec
 👤 **Joseph Ogbole**
 
 - GitHub: [@ONJoseph](https://github.com/ONJoseph)
-- Twitter: [@ONJCodes](https://twitter.com/ONJCodes)
+- Twitter: [@ONJoseph1](https://twitter.com/ONJoseph1)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/o-n-joseph-ba8425147/)
 
 ## 🤝 Contributing
@@ -98,4 +98,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./https://github.com/ONJoseph/realtime_search_box/blob/master/LICENSE) licensed.
+This project is [MIT](./LICENSE) licensed.
